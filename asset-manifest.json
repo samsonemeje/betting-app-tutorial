@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/betting-app-tutorial/static/css/main.42893ef0.chunk.css",
+    "main.js": "/betting-app-tutorial/static/js/main.08092029.chunk.js",
+    "main.js.map": "/betting-app-tutorial/static/js/main.08092029.chunk.js.map",
+    "runtime-main.js": "/betting-app-tutorial/static/js/runtime-main.0f5ea136.js",
+    "runtime-main.js.map": "/betting-app-tutorial/static/js/runtime-main.0f5ea136.js.map",
+    "static/js/2.03a9dd37.chunk.js": "/betting-app-tutorial/static/js/2.03a9dd37.chunk.js",
+    "static/js/2.03a9dd37.chunk.js.map": "/betting-app-tutorial/static/js/2.03a9dd37.chunk.js.map",
+    "index.html": "/betting-app-tutorial/index.html",
+    "precache-manifest.d21f29a65e10429caae3aa20a88fd84a.js": "/betting-app-tutorial/precache-manifest.d21f29a65e10429caae3aa20a88fd84a.js",
+    "service-worker.js": "/betting-app-tutorial/service-worker.js",
+    "static/css/main.42893ef0.chunk.css.map": "/betting-app-tutorial/static/css/main.42893ef0.chunk.css.map",
+    "static/js/2.03a9dd37.chunk.js.LICENSE.txt": "/betting-app-tutorial/static/js/2.03a9dd37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f5ea136.js",
+    "static/js/2.03a9dd37.chunk.js",
+    "static/css/main.42893ef0.chunk.css",
+    "static/js/main.08092029.chunk.js"
+  ]
+}
